@@ -32,6 +32,7 @@ namespace CampaignMonitorTest
             this.side2 = side2;
             this.side3 = side3;
         }
+
         /// <summary>
         /// Calculate Area of triangle
         /// </summary>

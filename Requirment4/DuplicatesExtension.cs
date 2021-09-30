@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Requirment4
+namespace CampaignMonitorTest
 {
     public static class DuplicatesExtension
     {

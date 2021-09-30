@@ -13,4 +13,11 @@
     <PackageReference Include="coverlet.collector" Version="3.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Requirment1\Requirment1.csproj" />
+    <ProjectReference Include="..\Requirment2\Requirment2.csproj" />
+    <ProjectReference Include="..\Requirment3\Requirment3.csproj" />
+    <ProjectReference Include="..\Requirment4\Requirment4.csproj" />
+  </ItemGroup>
+
 </Project>
