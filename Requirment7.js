@@ -12,7 +12,7 @@ name:'bob',
 age:30
 }];
 
-function arrangeBy(arr, criteria) {
+function arrangeBy(arr, criteria) { 
   const newObj = arr.reduce(function (acc, currentValue) {
     if (!acc[currentValue[criteria]]) {
       acc[currentValue[criteria]] = [];
