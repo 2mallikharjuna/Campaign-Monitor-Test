@@ -4,7 +4,7 @@
 
 * The general programming questions (1-4) have all been attempted using C# (VS 2019)
 * the SQL questions (5-6) have been written using and tested on MS SQL Server 2017.
-* The general programming questions (7-8) developed using VS code
+* The general programming questions (7-8) developed using Javascript (VS code)
 * NUnit has been used to test C# Code
 
 ### Installing Fetch for Javascript
