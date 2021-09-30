@@ -2,7 +2,10 @@
 
 ## Getting Started
 
-The general programming questions (1-4, 7-8) have all been attempted using Javascript and the SQL questions (5-6) have been written using and tested on MS SQL Server 2017. The files have been named after the Question number they hold the solution for except for Question 5 and 6, the solution for which are in the file called SQL.txt.
+The general programming questions (1-4) have all been attempted using C# 
+the SQL questions (5-6) have been written using and tested on MS SQL Server 2017.
+The general programming questions (7-8) developed using VS code
+NUnit has been used to test C# Code
 
 ### Installing Fetch for Javascript
 
