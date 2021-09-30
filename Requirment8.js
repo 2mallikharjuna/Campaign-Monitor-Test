@@ -24,7 +24,7 @@ async function asyncFetch(url) {
   }
 }
 
-//Create and Execute the tasks in parallel
+//Create and Executing the tasks in parallel
 //Parallel execution : https://jrsinclair.com/articles/2019/how-to-run-async-js-in-parallel-or-sequential/
 async function process(arrayOfPromises) {
   console.time(`process`);
